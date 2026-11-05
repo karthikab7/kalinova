@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Kalinova app icon">
+  <title>Kalinova tile icon</title>
+  <rect x="0" y="0" width="64" height="64" rx="14" ry="14" fill="#1F2A5A"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.5">
+    <path d="M22 16 V48" stroke="#FFFFFF"/>
+    <path d="M22 32 L47 16" stroke="#FFFFFF"/>
+    <path d="M22 32 L47 48" stroke="#2BA69A"/>
+  </g>
+</svg>

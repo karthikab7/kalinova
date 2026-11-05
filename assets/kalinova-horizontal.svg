@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" width="300" height="72" role="img" aria-label="Kalinova">
+  <title>Kalinova horizontal logo (light background)</title>
+  <!-- Icon tile -->
+  <g transform="translate(6 8)">
+    <rect x="0" y="0" width="56" height="56" rx="12" ry="12" fill="#1F2A5A"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.6" transform="translate(-0.5 -0.5) scale(0.90) translate(3 3)">
+      <path d="M22 16 V48" stroke="#FFFFFF"/>
+      <path d="M22 32 L47 16" stroke="#FFFFFF"/>
+      <path d="M22 32 L47 48" stroke="#2BA69A"/>
+    </g>
+  </g>
+  <!-- Wordmark (production: convert to outlines in Inter SemiBold; see brand-guidelines.md) -->
+  <text x="78" y="46" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.5" fill="#16181D">Kalinova</text>
+</svg>
